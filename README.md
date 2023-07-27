@@ -1,4 +1,4 @@
-# triangle-pattern-detection
+# triangle-pattern-detection vs Flag-pattern-detection
 Triangular pattern detection using machine learning algorithm.
 Flag pattern detection using machine learning algorithm.
 
