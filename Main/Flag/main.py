@@ -22,8 +22,8 @@ from sklearn.metrics import r2_score
 
 
 NORMAL_VALUE = 19
-ACCOUNT = 51638754  
-PASSWORD = "zoleg4ou" 
+ACCOUNT = input() # your account  
+PASSWORD = int(input())  # your password
 TICKER_NAME = "AUDCAD"
 SERVERNAME = "Alpari-MT5-Demo"
 TIME_START = datetime(2022, 11, 20)
