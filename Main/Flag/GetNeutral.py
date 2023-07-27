@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 
-ACCOUNT = 51638754  #############51297470 #15086292 #383729
-PASSWORD = "zoleg4ou"   ##############"ujvwclr8"  #"chk3csi"  #"hwxqr7jj"
+ACCOUNT = input() # your account  
+PASSWORD = int(input())  # your password
 TICKER_NAME = "AUDCAD"
 SERVERNAME = "Alpari-MT5-Demo"
 NORMAL_VALUE = 19
