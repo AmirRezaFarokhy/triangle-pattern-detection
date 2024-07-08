@@ -8,7 +8,6 @@ ACCOUNT = input() # your account
 PASSWORD = int(input())  # your password
 TICKER_NAME = "AUDCAD"
 SERVERNAME = "Alpari-MT5-Demo"
-
 answer = input("You wanna collect postive (positive -> y) (negetive -> n) >>>  ")
 if answer=='y':
     POSITIVE = True
