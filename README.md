@@ -1,4 +1,4 @@
-# triangle-pattern-detection vs Flag-pattern-detection 🚀
+# triangle-pattern-detection vs Flag-pattern-detection 🚀 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 Triangular pattern detection using machine learning algorithm.
 Flag pattern detection using machine learning algorithm.
 
