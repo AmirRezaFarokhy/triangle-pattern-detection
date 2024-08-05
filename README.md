@@ -10,7 +10,6 @@ Flag pattern detection using machine learning algorithm.
 2) Then use a linear model with `sklearn` and draw the line.
 
 
-
 ## Result for Triangular pattern
 ![res](https://github.com/AmirRezaFarokhy/triangle-pattern-detection/assets/113052872/fbf00fa4-ba1f-41e8-b7c5-e733df83bb96)
 
