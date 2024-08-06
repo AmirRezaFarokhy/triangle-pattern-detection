@@ -28,7 +28,7 @@ if login_account:
 else:
 	print(f"Connection failed. Error, {mt5.last_error()}")
 	
-
+# Download data and saved as dataframe
 df = pd.DataFrame(mt5.copy_rates_range(TICKER_NAME, 
 									  mt5.TIMEFRAME_H1,
 									  datetime(2022, 11, 20),
