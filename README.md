@@ -12,7 +12,6 @@ Flag pattern detection using machine learning algorithm.
 ## Result for Triangular pattern
 ![res](https://github.com/AmirRezaFarokhy/triangle-pattern-detection/assets/113052872/fbf00fa4-ba1f-41e8-b7c5-e733df83bb96)
 
-
 ## Result for Flag pattern
 ![Simple_Save_1](https://github.com/AmirRezaFarokhy/triangle-pattern-detection/assets/113052872/de3a527e-094e-4f61-8ad7-dfce5d3e6586)
 
