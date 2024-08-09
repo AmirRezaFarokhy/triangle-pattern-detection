@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import talib
 
-
 class Indicators:
 
 	def __init__(self, opens, lows, highs, closes):
