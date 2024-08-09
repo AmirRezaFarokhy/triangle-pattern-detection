@@ -22,7 +22,6 @@ Flag pattern detection using machine learning algorithm.
 pip3 install -r requirements.txt
 ```
 
-
 ### Download Data
 Download the data in the link below:
 https://forexsb.com/historical-forex-data
