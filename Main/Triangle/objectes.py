@@ -31,7 +31,7 @@ class Indicators:
 		rsi = 100 - (100/(1 + rsi))
 		return rsi
 
-
+	# Create a simple moving average with avraging close price
 	def Moving_Average(self, days=200):
 		moving_averages = self.close.rolling(days).mean()
 		return moving_averages
