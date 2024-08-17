@@ -4,7 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt 
 from datetime import datetime
 
-
 ACCOUNT = input() # your account  
 PASSWORD = int(input())  # your password
 TICKER_NAME = "AUDCAD"
