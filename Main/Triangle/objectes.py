@@ -14,6 +14,7 @@ class Indicators:
 		tr = np.amax(np.vstack(((self.high-self.low).to_numpy(), (abs(self.high-self.close)).to_numpy(), (abs(self.low-self.close)).to_numpy())).T, axis=1)
 		return pd.Series(tr).rolling(number_range).mean().to_numpy()
 
+
 	def RSI(self, periods=14, ema=True):
 		close_delta = self.close.diff()
 
