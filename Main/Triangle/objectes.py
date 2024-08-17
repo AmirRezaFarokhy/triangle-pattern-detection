@@ -37,7 +37,6 @@ class Indicators:
 		moving_averages = self.close.rolling(days).mean()
 		return moving_averages
 
-
 	def Bollian_Band(self, std=2, days=20):
 		MA = self.close.rolling(window=days).mean()
 		STD = self.close.rolling(window=days).std()
