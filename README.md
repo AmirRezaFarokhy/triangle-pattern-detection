@@ -5,6 +5,7 @@
 Triangular pattern detection using machine learning algorithm.
 Flag pattern detection using machine learning algorithm.
 
+
 ## Concept
 1) First, we filter the data and the highest and lowest values. 
 2) Then use a linear model with `sklearn` and draw the line.
